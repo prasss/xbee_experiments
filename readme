@@ -1,2 +1,5 @@
 xbee experiments
+1) Simple RX and TX programs.
+2) Interfacing sensor (pir sensor in this case) with arduino to transmit trigger state through xbee communication.
+3) Developing a remote control using breadboard (two remotes in this case) to manipulate actions in a python game using Pygame library.
 
